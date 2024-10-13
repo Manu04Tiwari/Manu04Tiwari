@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Manu04Tiwari?tab=repositories](https://github.com/Manu04Tiwari?tab=repositories)
 
-- 📫 How to reach me **Marttiwari8219@gmail.com**
+- 📫 How to reach me **Manu.Mishra0412@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AmyPvrOHdWXnV6Uv3FbpuwowDgPtEvn0/view?usp=drive_link](https://drive.google.com/file/d/1AmyPvrOHdWXnV6Uv3FbpuwowDgPtEvn0/view?usp=drive_link)
 
