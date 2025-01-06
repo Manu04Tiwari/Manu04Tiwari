@@ -1,4 +1,4 @@
-![image](https://github.com/Manu04Tiwari/Manu04Tiwari/assets/120443977/56024ecc-f41d-4b7d-9b44-6b63bf760050)
+![image](https://github.com/Manu04Tiwari/Manu04Tiwari/blob/main/Neon%20Modern%20Futuristic%20Simple%20Gaming%20YouTube%20Banner%20%20(2).png)
 
 <h1 align="center">Hi 👋, I'm Manu Tiwari</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
