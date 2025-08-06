@@ -1,39 +1,3 @@
-![image](https://github.com/Manu04Tiwari/Manu04Tiwari/blob/main/Neon%20Modern%20Futuristic%20Simple%20Gaming%20YouTube%20Banner%20%20(2).png)
-
-<h1 align="center">Hi 👋, I'm Manu Tiwari</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt= "coding" width="400" src= "https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manu04tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="manu04tiwari" /> </p>
-
-- 🔭 I’m currently working on **CarBoro Project**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Manu04Tiwari?tab=repositories](https://github.com/Manu04Tiwari?tab=repositories)
-
-- 📫 How to reach me **Marttiwari8219@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AmyPvrOHdWXnV6Uv3FbpuwowDgPtEvn0/view?usp=drive_link](https://drive.google.com/file/d/1AmyPvrOHdWXnV6Uv3FbpuwowDgPtEvn0/view?usp=drive_link)
-
-- ⚡ Fun fact **I can very well copy the voice of SpongeBob**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manu tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manu tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/_hnji_manu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hnji_manu_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/manu tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manu tiwari" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manu04tiwari&show_icons=true&locale=en&layout=compact" alt="manu04tiwari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manu04tiwari&show_icons=true&locale=en" alt="manu04tiwari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manu04tiwari&" alt="manu04tiwari" /></p>
-
-
 
 
 
@@ -154,7 +118,6 @@ Mongodb, Tensorflow, AI&ML or anything&nbsp;[here...](https://manu04tiwari.githu
               <li><b>Frontend</b>: HTML, CSS, JavaScript, React.js</li>
               <li><b>Backend</b>: Node.js, Spring Boot, Express, System Design</li>
               <li><b>AI/ML</b>: Machine Learning</li>
-              <li><b>Mathematics</b>: Strong foundation in Linear Algebra, Vectors, Matrices, Trigonometry (used in projects/ML models)</li>
               <li><b>Languages</b>: Python, JavaScript, C++</li>
               <li><b>Databases</b>: MongoDB, MySQL</li>
             </ul>
@@ -204,55 +167,51 @@ DevOps             ███████░░░░░░   65%
       <table align="center" style="border: none; border-collapse: collapse;">
         <tr style="border: none;">
           <td align="center" width="96" style="border: none;">
-            <a href="#"><img src="assets/python.svg" alt="Python" width="65" height="65"/></a>
+            <a href="#"><img src="https://github.com/Manu04Tiwari/Manu04Tiwari/blob/main/python.svg" alt="Python" width="65" height="65"/></a>
             <br>Python
           </td>
           <td align="center" width="96" style="border: none;">
-            <a href="#"><img src="assets/django.svg" alt="Django" width="65" height="65"/></a>
-            <br>Django
-          </td>
-          <td align="center" width="96" style="border: none;">
-            <a href="#"><img src="assets/js.svg" alt="JavaScript" width="65" height="65"/></a>
+            <a href="#"><img src="https://github.com/Manu04Tiwari/Manu04Tiwari/blob/main/js.svg" alt="JavaScript" width="65" height="65"/></a>
             <br>JavaScript
           </td>
-          <td align="center" width="96" style="border: none;">
-            <a href="#"><img src="assets/go.svg" alt="Golang" width="65" height="65"/></a>
-            <br>Go
+            <td align="center" width="96" style="border: none;">
+            <a href="#"><img src="https://github.com/Manu04Tiwari/Manu04Tiwari/blob/main/java-horizontal.svg" alt="Java" width="65" height="65"/></a>
+            <br>Java
+          </td>
+            <td align="center" width="96" style="border: none;">
+            <a href="#"><img src="https://github.com/Manu04Tiwari/Manu04Tiwari/blob/main/leetcode.png" alt="Leetcode" width="65" height="65"/></a>
+            <br>LeetCode
           </td>
         </tr>
         <tr style="border: none;">
           <td align="center" width="96" style="border: none;">
-            <a href="#"><img src="assets/cpp.svg" alt="C++" width="65" height="65"/></a>
+            <a href="#"><img src="https://github.com/Manu04Tiwari/Manu04Tiwari/blob/main/cpp.svg" alt="C++" width="65" height="65"/></a>
             <br>C++
           </td>
           <td align="center" width="96" style="border: none;">
-            <a href="#"><img src="assets/docker.svg" alt="Docker" width="65" height="65"/></a>
+            <a href="#"><img src="https://github.com/Manu04Tiwari/Manu04Tiwari/blob/main/docker.svg" alt="Docker" width="65" height="65"/></a>
             <br>Docker
           </td>
           <td align="center" width="96" style="border: none;">
-            <a href="#"><img src="assets/mysql.svg" alt="MySQL" width="65" height="65"/></a>
+            <a href="#"><img src="https://github.com/Manu04Tiwari/Manu04Tiwari/blob/main/mysql.svg" alt="MySQL" width="65" height="65"/></a>
             <br>MySQL
           </td>
           <td align="center" width="96" style="border: none;">
-            <a href="#"><img src="assets/github.svg" alt="GitHub" width="50" height="50"/></a>
+            <a href="#"><img src="https://github.com/Manu04Tiwari/Manu04Tiwari/blob/main/github.svg" alt="GitHub" width="50" height="50"/></a>
             <br>GitHub
           </td>
         </tr>
         <tr style="border: none;">
           <td align="center" width="96" style="border: none;">
-            <a href="#"><img src="assets/pytorch.svg" alt="PyTorch" width="65" height="65"/></a>
+            <a href="#"><img src="https://github.com/Manu04Tiwari/Manu04Tiwari/blob/main/pytorch.svg" alt="PyTorch" width="65" height="65"/></a>
             <br>PyTorch
           </td>
           <td align="center" width="96" style="border: none;">
-            <a href="#"><img src="assets/tensorflow.svg" alt="TensorFlow" width="65" height="65"/></a>
+            <a href="#"><img src="https://github.com/Manu04Tiwari/Manu04Tiwari/blob/main/tensorflow.svg" alt="TensorFlow" width="65" height="65"/></a>
             <br>TensorFlow
           </td>
           <td align="center" width="96" style="border: none;">
-            <a href="#"><img src="assets/opencv.svg" alt="OpenCV" width="65" height="65"/></a>
-            <br>OpenCV
-          </td>
-          <td align="center" width="96" style="border: none;">
-            <a href="#"><img src="assets/postgre.svg" alt="PostgreSQL" width="100" height="75"/></a>
+            <a href="#"><img src="https://github.com/Manu04Tiwari/Manu04Tiwari/blob/main/postgre.svg" alt="PostgreSQL" width="100" height="75"/></a>
             <br>PostgreSQL
           </td>
         </tr>
@@ -262,7 +221,7 @@ DevOps             ███████░░░░░░   65%
     <td style="width: 100px; border: none;"></td>
     <!-- Hacker GIF on the Right -->
     <td align="center" valign="top" style="border: none;">
-      <a href="#"><img src="assets/engineer6.gif" alt="Hacker GIF" width="250"/></a>
+      <a href="#"><img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Hacker GIF" width="250"/></a>
     </td>
   </tr>
 </table>
@@ -275,34 +234,14 @@ DevOps             ███████░░░░░░   65%
         <table style="border-collapse: collapse; border: none;">
             <tr>
                 <td style="border: none; ">
-                    <a href="https://linkedin.com/in/sandipan-rakshit" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipan-rakshit" height="30" width="40" />
+                    <a href="https://www.linkedin.com/in/manu04tiwari/" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manu-Tiwari" height="30" width="40" />
                     </a>
                 </td>
                 <td style="border: none;">
-                    <a href="https://www.leetcode.com/sandipan34" target="_blank">
-                       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandipan34" height="30" width="40" />
+                    <a href="https://leetcode.com/u/Manu_Mishra/" target="_blank">
+                       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Manu-Mishra" height="30" width="40" />
                 </a>
-                <td style="border: none;">
-                    <a href="https://instagram.com/sandipan_rakshit_" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_dipan_" height="30" width="40" />
-                    </a>
-                </td>
-                <td style="border: none;">
-                    <a href="https://twitter.com/@s_rakshit_" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@s_rakshit_" height="30" width="40" />
-                    </a>
-                </td>
-                <td style="border: none;">
-                    <a href="https://fb.com/sandipan.rakshit.9z674" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandipan.rakshit.9z674" height="30" width="40" />
-                    </a>
-                </td>
-           <!--   <td style="border: none;">
-                    <a href="https://www.hackerrank.com/sandipan34" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandipan34" height="30" width="40" />
-                    </a>
-                </td>  -->
                 </td>
             </tr>
         </table>
@@ -310,14 +249,14 @@ DevOps             ███████░░░░░░   65%
 
 <hr>
 <h2 align="center">⚡ More About Me ⚡</h2>
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Deep+Learning+Explorer+%F0%9F%A7%A0;Computer+Vision+Enthusiast+%F0%9F%91%81%EF%B8%8F;Backend+Developer+%F0%9F%9B%A0%EF%B8%8F" ></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&random=false&width=600&lines=Machine+Learning+Voyager+%F0%9F%A7%A0;Software+Development+Enthusiast+%F0%9F%91%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%9B%A0%EF%B8%8F" ></a>
 <div align="center" style="font-size: 16px; line-height: 1.8;">
 
-🔭 <b>Currently working on:</b> Deep Learning Projects  
-🌱 <b>Learning:</b> MLOps and System Design  
+🔭 <b>Currently working on:</b> Machine Learning Projects  
+🌱 <b>Learning:</b> DevOps and System Design  
 👯 <b>Looking to collaborate on:</b> AI/ML Projects  
-💬 <b>Ask me about:</b> Python, Deep Learning, Computer Vision  
-⚡ <b>Fun fact:</b> I can code for hours with just coffee and music!
+💬 <b>Ask me about:</b> C++, Python, Machine Learning, Building Systems  
+⚡ <b>Fun fact:</b> I can copy the voice of SpongeBob well enough :) !
 
 </div>
 <br>
@@ -325,12 +264,12 @@ DevOps             ███████░░░░░░   65%
  <hr/>
 <div align="center">
     <a href="#">
-        <img alt="thanks for visiting!" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=34F700&&size=26&&duration=2600&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!;Have+a+good+day!">
+        <img alt="thanks for visiting!" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=34F700&&size=26&&duration=2600&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!;Have+a+great+day!">
     </a>
 </div>
 <div align="center">
     <a href="#">
-        <img src="assets/footer.svg" width=100%/>
+        <img src="https://github.com/Manu04Tiwari/Manu04Tiwari/blob/main/footer.svg" width=100%/>
     </a>
 </div>
 
